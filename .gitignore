@@ -23,3 +23,8 @@
 hs_err_pid*
 replay_pid*
 
+sources/com/.DS_Store
+sources/com/berozain/.DS_Store
+sources/.DS_Store
+data/.DS_Store
+.DS_Store
