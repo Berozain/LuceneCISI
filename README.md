@@ -10,7 +10,7 @@
   ```docTitle="" docContent="" docAuthors=""``` to find best results.
 
  ### Evaluation
-  There are 110 queries with the most relevant results in order of relevance in the CISI dataset. In the evaluation section, we check how similar our results are to the best results. So we calculate Recall, Precision, MAP (Mean Average Precision) and F-Measure for all queries.
+  There are 111 queries with the most relevant results in order of relevance in the CISI dataset. In the evaluation section, we check how similar our results are to the best results. So we calculate Recall, Precision, MAP (Mean Average Precision) and F-Measure for all queries.
 
 
  ### Resources

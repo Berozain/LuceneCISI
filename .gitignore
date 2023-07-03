@@ -28,3 +28,6 @@ sources/com/berozain/.DS_Store
 sources/.DS_Store
 data/.DS_Store
 .DS_Store
+target/classes/com/.DS_Store
+target/classes/.DS_Store
+target/classes/com/berozain/.DS_Store

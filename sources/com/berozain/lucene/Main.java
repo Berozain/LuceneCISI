@@ -74,7 +74,7 @@ public class Main {
 	public static boolean enableStammer = true;
 	public static boolean enableStopWords = true;
 	public static Algorithm algorithm = Algorithm.BM_25;
-	public static final String path_caches_directory = "/Users/behrouz/Documents/Files/Eclipse/lucene/data/CISI/";
+	public static final String path_caches_directory = "<YOUR_PATH>/InformationRetrievalLuceneCISI/data/CISI/";
 	public static final String path_caches = path_caches_directory + "caches";
 	public static final String path_documents = path_caches_directory + "CISI.ALL";
 	public static final String path_queries = path_caches_directory + "CISI.QRY";
