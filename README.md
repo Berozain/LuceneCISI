@@ -6,7 +6,7 @@
 
  
  ### Query
-  You can write query easyly like ```Lending book``` or for advanced search you can use this format
+  You can write query easily like ```Lending book``` or for advanced search you can use this format
   ```docTitle="" docContent="" docAuthors=""``` to find best results.
 
  ### Evaluation
