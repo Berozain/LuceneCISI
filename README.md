@@ -6,10 +6,11 @@
 
  
  ### Query
-  You can write query easyly like "Lending book" or for advenced search you can use this format: docTitle="" docContent="" docAuthors=""
+  You can write query easyly like ```Lending book``` or for advanced search you can use this format
+  ```docTitle="" docContent="" docAuthors=""``` to find best results.
 
  ### Evaluation
-  There are 111 queries with the best answers in the CISI dataset. In the evaluation section, we check how similar our results are to the best answers. So we calculate Recall, Precision, MAP (Mean Average Precision) and F-Measure for all queries.
+  There are 110 queries with the most relevant results in order of relevance in the CISI dataset. In the evaluation section, we check how similar our results are to the best results. So we calculate Recall, Precision, MAP (Mean Average Precision) and F-Measure for all queries.
 
 
  ### Resources
@@ -19,4 +20,4 @@
  
  ### Developed by
  1. Behrouz Amoushahi Khouzani
- 2. Mehdi Jabalameli
+ 2. DR. Mehdi Jabalameli
