@@ -21,5 +21,5 @@ Information Retrieval with Lucene and CISI dataset
 
  
  ### Developed by
- 1. Behrouz Amoushahi Khouzani
- 2. DR. Mehdi Jabalameli
+ 1. Behrouz Amoushahi
+ 2. DR Mehdi Jabalameli
